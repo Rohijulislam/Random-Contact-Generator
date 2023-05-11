@@ -24,7 +24,8 @@ The script relies on the following Python packages:
    ```shell
    pip3 install vobject faker 
    ```
- **Note:** If pip or pip3 command is not recognized, make sure to install pip for your Python version.
+ 
+   **Note:** If pip or pip3 command is not recognized, make sure to install pip for your Python version.
    
 ## Customization
 - If you want to adjust the number of contacts generated, you can modify the `range` value in the line `contacts = [generate_contact() for _ in range(5000)]`. Change `5000` to your desired number.
@@ -48,10 +49,7 @@ The script relies on the following Python packages:
 - The script will generate a VCF file containing 5,000 contacts. The file will be saved in the same directory as the script.
 - You can import the VCF file into your contact manager, phone app or simulator to add the contacts
 
- ## Notes
-- The vobject library is used to generate vCard data. Make sure to install it using the pip command mentioned in the installation steps.
-- The Faker library is used to generate realistic names and email addresses for the contacts.
-- Feel free to modify the code and adapt it to your requirements. Enjoy generating contacts!
+  **Note:**  Feel free to modify the code and adapt it to your requirements. **Enjoy generating contacts!**
 
 ## Contact Information
 For any questions or issues, please feel free to reach out to me 
