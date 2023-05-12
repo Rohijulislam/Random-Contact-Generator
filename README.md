@@ -54,8 +54,7 @@ The script relies on the following Python packages:
 ## Contact Information
 For any questions or issues, please feel free to reach out to me 
 <p left="center">
-  
-  <a href="https://www.linkedin.com/in/rohejul-islam-666746186/" target="blank">
+  <a href="https://stackoverflow.com/users/12478068/rohejul-islam" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
   
@@ -64,9 +63,8 @@ For any questions or issues, please feel free to reach out to me
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
   
-  <a href="https://stackoverflow.com/users/rohejul islam" target="blank">
+  <a href="https://www.linkedin.com/in/rohejul-islam-666746186/" target="blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-
 </p>
 
